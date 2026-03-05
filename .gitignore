@@ -1,0 +1,6 @@
+.venv
+*.xlsx
+download
+*.zip
+.DS_Store
+netlab.exe_extracted
